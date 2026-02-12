@@ -113,10 +113,6 @@ This project implements a **noise-first** approach to voice intelligence, where 
 5. **Learn**: Unmatched patterns queue for admin approval
 6. **Visualize**: Live graphs show energy, entropy, and identity status
 
-## License
-
-MIT License
-
 ## Contributing
 
 Contributions welcome! Please open an issue or submit a pull request.
